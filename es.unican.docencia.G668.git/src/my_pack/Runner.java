@@ -24,6 +24,8 @@ public class Runner {
 			// Left workerAtLeft   = new Left();
 			// Company company     = new Company();
 			Right rgh = new Right();
+			Left lef = new Left();
+			lef.identify();
 			System.out.println("==================================================");
 			System.out.println("              Product Developed by                ");
 			System.out.println("                     UNICAN");
