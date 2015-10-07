@@ -23,7 +23,7 @@ public class Runner {
 			// Right workerAtRight = new Right();
 			// Left workerAtLeft   = new Left();
 			// Company company     = new Company();
-		
+			Right rgh = new Right();
 			System.out.println("==================================================");
 			System.out.println("              Product Developed by                ");
 			System.out.println("                     UNICAN");
@@ -34,6 +34,7 @@ public class Runner {
 			// workerAtLeft.identify();
 			// workerAtRight.identify();
 			System.out.println("==================================================");
+			rgh.identify();
 		// } else {
 		//	System.out.println("You do not have access to this application");			
 		// }// if
